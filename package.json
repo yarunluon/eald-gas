@@ -1,0 +1,23 @@
+{
+  "name": "eald-gas",
+  "version": "1.0.0",
+  "description": "Skeleton repo to upload to Google App Scripts",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "./node_modules/.bin/gas push",
+    "gas": "./node_modules/.bin/gas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarunluon/eald-gas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarunluon/eald-gas/issues"
+  },
+  "homepage": "https://github.com/yarunluon/eald-gas#readme",
+  "dependencies": {
+    "google-apps-script": "1.2.1"
+  }
+}
