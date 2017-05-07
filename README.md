@@ -1,5 +1,5 @@
 # EA/LD - Google App Scripts upload
-This repo contains the files to upload to Google App Scripts.
+This repo contains the files to upload to Google App Scripts. It is meant to be used with https://github.com/yarunluon/eald.
 
 ## Usage
 1. `nvm install` to set the Node version
