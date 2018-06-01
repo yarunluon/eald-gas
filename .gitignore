@@ -2,3 +2,5 @@ node_modules
 .gas
 *.log
 *.js
+*.code-workspace
+/scripts

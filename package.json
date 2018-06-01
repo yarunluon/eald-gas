@@ -1,11 +1,10 @@
 {
   "name": "eald-gas",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Skeleton repo to upload to Google App Scripts",
   "main": "index.js",
   "scripts": {
-    "deploy": "./node_modules/.bin/gas push",
-    "gas": "./node_modules/.bin/gas"
+    "gas": "gas"
   },
   "repository": {
     "type": "git",
@@ -18,6 +17,6 @@
   },
   "homepage": "https://github.com/yarunluon/eald-gas#readme",
   "dependencies": {
-    "google-apps-script": "1.2.1"
+    "google-apps-script": "2.9.2"
   }
 }
