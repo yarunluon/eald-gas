@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/yarunluon/eald-gas#readme",
   "dependencies": {
-    "google-apps-script": "2.9.2"
+    "google-apps-script": "^4.1.6"
   }
 }
